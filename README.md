@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Github pages](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/vishalbrdr/tip-calculator-app)
+- Live Site URL: [Github pages](https://vishalbrdr.github.io/tip-calculator-app)
 
 ## My process
 
