@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://i.ibb.co/1d2SYQ1/vishalbrdr-github-io-tip-calculator-app.png)
 
 
 ### Links
